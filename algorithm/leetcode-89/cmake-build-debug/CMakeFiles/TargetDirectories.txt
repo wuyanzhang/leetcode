@@ -1,3 +1,0 @@
-/Users/wyz/Documents/leetcode/algorithm/leetcode-89/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/wyz/Documents/leetcode/algorithm/leetcode-89/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/wyz/Documents/leetcode/algorithm/leetcode-89/cmake-build-debug/CMakeFiles/leetcode_89.dir
